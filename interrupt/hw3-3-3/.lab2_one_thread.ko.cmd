@@ -1,0 +1,1 @@
+cmd_/home/kernel/Desktop/hw3/hw3-3-3/lab2_one_thread.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/kernel/Desktop/hw3/hw3-3-3/lab2_one_thread.ko /home/kernel/Desktop/hw3/hw3-3-3/lab2_one_thread.o /home/kernel/Desktop/hw3/hw3-3-3/lab2_one_thread.mod.o

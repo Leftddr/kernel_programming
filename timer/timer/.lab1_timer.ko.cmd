@@ -1,0 +1,1 @@
+cmd_/home/kernel/Desktop/hw2/timer/lab1_timer.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/kernel/Desktop/hw2/timer/lab1_timer.ko /home/kernel/Desktop/hw2/timer/lab1_timer.o /home/kernel/Desktop/hw2/timer/lab1_timer.mod.o

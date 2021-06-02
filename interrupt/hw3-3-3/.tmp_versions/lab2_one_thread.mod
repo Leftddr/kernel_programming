@@ -1,0 +1,2 @@
+/home/kernel/Desktop/hw3/hw3-3-3/lab2_one_thread.ko
+/home/kernel/Desktop/hw3/hw3-3-3/lab2_one_thread.o

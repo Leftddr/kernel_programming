@@ -1,0 +1,3 @@
+obj-m	+= myusbms_gpio.o
+clean :
+	rm -rf *.o *.ko *.mod.c

@@ -1,0 +1,1 @@
+cmd_/home/kernel/Desktop/hw2/periodic_timer/lab3_periodic_timer.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/kernel/Desktop/hw2/periodic_timer/lab3_periodic_timer.ko /home/kernel/Desktop/hw2/periodic_timer/lab3_periodic_timer.o /home/kernel/Desktop/hw2/periodic_timer/lab3_periodic_timer.mod.o

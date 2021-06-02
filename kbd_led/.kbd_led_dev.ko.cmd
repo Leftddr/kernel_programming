@@ -1,0 +1,1 @@
+cmd_/home/kernel/Desktop/hw6/kbd_led_dev.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/kernel/Desktop/hw6/kbd_led_dev.ko /home/kernel/Desktop/hw6/kbd_led_dev.o /home/kernel/Desktop/hw6/kbd_led_dev.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/kernel/Desktop/hw3/hw3-2-2/lab1_workqueue_shared.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/kernel/Desktop/hw3/hw3-2-2/lab1_workqueue_shared.ko /home/kernel/Desktop/hw3/hw3-2-2/lab1_workqueue_shared.o /home/kernel/Desktop/hw3/hw3-2-2/lab1_workqueue_shared.mod.o
